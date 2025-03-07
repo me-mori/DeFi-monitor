@@ -1,5 +1,5 @@
+import streamlit as st
 import math
-import streamlit as stst
 
 # Title of the app
 st.title("Liquidity Pool Calculator with Smooth Conversion")
